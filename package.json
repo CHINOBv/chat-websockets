@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  },
+  "scripts": {
+    "dev": "nodemon src/ --watch",
+    "start": "node src/index.js"
+  }
+}
